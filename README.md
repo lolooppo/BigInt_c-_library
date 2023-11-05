@@ -1,5 +1,5 @@
 # BigInt_c++_library
-Big numbers operations library which provides :
+BigInt library operations where provided in :
 - x = 123456789012345678901234567890 , b = 113456789011345678901134567890.
 1. Addition : 236913578023691357802369135780.
 2. Subtraction : 10000000001000000000100000000.
